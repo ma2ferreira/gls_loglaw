@@ -15,8 +15,8 @@ This guide covers setup using **Anaconda Prompt** or **Git Bash** on Windows.
 ### 1. Create a project folder and navigate into it
 
 ```bash
-mkdir "C:\Users\YourName\Projects\gls_loglaw"
-cd "C:\Users\YourName\Projects\gls_loglaw"
+mkdir "C:\Users\YourName\Projects"
+cd "C:\Users\YourName\Projects"
 ```
 
 ### 2. Clone the repository
