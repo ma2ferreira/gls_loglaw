@@ -1,0 +1,12 @@
+name: gls-env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - python=3.13
+  - scipy
+  - matplotlib
+  - cmocean
+prefix: C:\Apps\Anaconda3\envs\gls-env
